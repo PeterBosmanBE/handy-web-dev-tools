@@ -1,4 +1,5 @@
-# Handy Web Dev Tools
+
+# Handy JavaScript Tools
 
 These are tools to make life better
 
@@ -36,6 +37,8 @@ Database Builder: https://database.build/
 Front-end Design Builder: https://v0.dev/
 
 GitHub Copilot: https://copilot.github.com/
+
+Zod: https://zod.dev/
 ## Networking & API Tools:
 
 Axios: https://axios-http.com/
@@ -43,6 +46,8 @@ Axios: https://axios-http.com/
 JSON Placeholder: https://jsonplaceholder.typicode.com/
 
 Postman: https://www.postman.com/
+
+SWR: https://swr.vercel.app/
 ## Development Tools:
 
 PNPM (Fast Package Manager): https://pnpm.io/
@@ -52,6 +57,8 @@ ESLint: https://eslint.org/
 Prettier: https://prettier.io/
 
 Oh My Posh: https://ohmyposh.dev/
+
+Faker.js: https://github.com/faker-js/faker
 ## Metadata Tools:
 
 Meta Tags: https://metatags.io/
@@ -63,10 +70,12 @@ Swagger UI: https://swagger.io/tools/swagger-ui/
 
 Chrome DevTools: https://developer.chrome.com/docs/devtools/
 
-Firefox Developer Tools: https://developer.mozilla.org/en-US/docs/Tools
+Firefox Developer Tools: https://developer.mozilla.org/en-US/docs/Tools/
 
-React DevTools: https://react.dev/learn/react-developer-tools
+React DevTools: https://react.dev/learn/react-developer-tools/
 
 Visual Studio Code Debugger: https://code.visualstudio.com/
 
-MongoDB Compass: https://www.mongodb.com/products/compass
+MongoDB Compass: https://www.mongodb.com/products/compass/
+
+Jest: https://jestjs.io/

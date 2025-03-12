@@ -29,6 +29,14 @@ React Bootstrap: https://react-bootstrap.github.io/
 Framer Motion: https://www.framer.com/motion/
 
 Material Icons: https://material.io/resources/icons/
+
+Font Awesome: https://fontawesome.com/
+
+Bootstrap Icons: https://icons.getbootstrap.com/
+
+CSS Layout Generator: https://grid.layoutit.com/
+
+Tailwind CSS Play: https://play.tailwindcss.com/
 ## AI-Powered Development Tools:
 
 Database Builder: https://database.build/

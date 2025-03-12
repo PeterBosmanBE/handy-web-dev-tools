@@ -1,5 +1,4 @@
-
-# Handy JavaScript Tools
+# Handy Web Dev Tools
 
 These are tools to make life better
 

@@ -1,6 +1,6 @@
 # Handy Web Dev Tools
 
-These are tools to make life better
+These are tools to make coding just a little bit easier :3
 
 ## UI Tools:
 

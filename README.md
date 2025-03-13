@@ -44,8 +44,6 @@ Database Builder: https://database.build/
 Front-end Design Builder: https://v0.dev/
 
 GitHub Copilot: https://copilot.github.com/
-
-Zod: https://zod.dev/
 ## Networking & API Tools:
 
 Axios: https://axios-http.com/
@@ -66,6 +64,8 @@ Prettier: https://prettier.io/
 Oh My Posh: https://ohmyposh.dev/
 
 Faker.js: https://github.com/faker-js/faker
+
+Zod: https://zod.dev/
 ## Metadata Tools:
 
 Meta Tags: https://metatags.io/
